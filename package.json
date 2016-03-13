@@ -1,0 +1,37 @@
+{
+  "name": "github-stars-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot --quiet",
+    "build": "webpack -p",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreezeDust/GithubStars-webapp.git"
+  },
+  "keywords": [
+    "github",
+    "star"
+  ],
+  "author": "BreezeDust",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BreezeDust/GithubStars-webapp/issues"
+  },
+  "homepage": "https://github.com/BreezeDust/GithubStars-webapp#readme",
+  "dependencies": {
+    "vue": "^1.0.17"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "html-loader": "^0.4.3",
+    "style-loader": "^0.13.0",
+    "vue-loader": "^8.2.0",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1",
+    "mocha": "^2.4.5"
+  }
+}
