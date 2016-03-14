@@ -1,4 +1,4 @@
-<style xmlns:v-on="http://www.w3.org/1999/xhtml" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<style>
     .dust-button{
         background-color: #abc123;
         color: #ffffff;
