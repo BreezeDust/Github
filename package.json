@@ -2,7 +2,7 @@
   "name": "github-stars-webapp",
   "version": "1.0.0",
   "description": "",
-  "main": "src/main.js",
+  "main": "./app/main.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --quiet",
     "build": "webpack -p",

@@ -1,5 +1,15 @@
+/**
+* @Author: BreezeDust
+* @Date:   2016-03-13
+* @Email:  breezedust.com@gmail.com
+* @Last modified by:   BreezeDust
+* @Last modified time: 2016-04-10
+*/
+
+
+
 module.exports = {
-  entry: "./src/main.js",
+  entry: "./app/main.js",
   output: {
     path: "./build",
     publicPath: "/build/",
