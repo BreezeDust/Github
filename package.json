@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/BreezeDust/GithubStars-webapp#readme",
   "dependencies": {
-    "vue": "^1.0.17"
+      "vue": "^1.0.17",
+      "vuex": "^0.6.2",
+      "vue-router":"^0.7.13"
   },
   "devDependencies": {
     "css-loader": "^0.23.1",
